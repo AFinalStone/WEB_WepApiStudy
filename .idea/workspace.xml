@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1d606b3-0a3a-4db0-8a39-c5a69507b2f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14自定义滚动条/自定义滚动条.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15元素隐藏的不同的方式/元素隐藏的不同的方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16表格隔行变色/表格隔行变色.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17tab切换效果的实现/tab切换效果的实现.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18大量字符串拼接的实现/大量字符串拼接效果实现.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitpull.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01百度搜索/模拟百度搜索.html" beforeDir="false" afterPath="$PROJECT_DIR$/01百度搜索/模拟百度搜索.html" afterDir="false" />
-    </list>
+    <list default="true" id="a1d606b3-0a3a-4db0-8a39-c5a69507b2f0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,7 +15,7 @@
     <session id="-1812245409">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -34,7 +25,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="18" />
+          <entry key="html" value="19" />
           <entry key="jpg" value="1" />
           <entry key="md" value="1" />
           <entry key="sh" value="1" />
@@ -43,7 +34,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="18" />
+          <entry key="HTML" value="19" />
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -90,15 +81,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14自定义滚动条/自定义滚动条.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="342">
               <caret line="142" column="36" lean-forward="true" selection-start-line="142" selection-start-column="36" selection-end-line="142" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15元素隐藏的不同的方式/元素隐藏的不同的方式.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -106,13 +101,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/18大量字符串拼接的实现/大量字符串拼接效果实现.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/19列表添加评论/列表添加评论.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -149,6 +149,7 @@
         <option value="$PROJECT_DIR$/10图片跟着鼠标飞/03图片跟着鼠标飞新的问题.html" />
         <option value="$PROJECT_DIR$/01百度搜索/模拟百度搜索.html" />
         <option value="$PROJECT_DIR$/14自定义滚动条/自定义滚动条.html" />
+        <option value="$PROJECT_DIR$/15元素隐藏的不同的方式/元素隐藏的不同的方式.html" />
       </list>
     </option>
   </component>
@@ -175,26 +176,6 @@
               <item name="WebApiStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebApiStudy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WebApiStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApiStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="14自定义滚动条" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebApiStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApiStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="15元素隐藏的不同的方式" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebApiStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApiStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="16表格隔行变色" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebApiStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebApiStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="17tab切换效果的实现" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -209,11 +190,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/19列表添加评论" />
       <recent name="$PROJECT_DIR$/18字符串拼接" />
       <recent name="$PROJECT_DIR$/17tab切换效果的实现" />
       <recent name="$PROJECT_DIR$/16表格隔行变色" />
       <recent name="$PROJECT_DIR$/16案例表格隔行变色" />
-      <recent name="$PROJECT_DIR$/15隐藏元素" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/common" />
@@ -243,16 +224,15 @@
       <updated>1558086563379</updated>
       <workItem from="1558086566881" duration="2476000" />
       <workItem from="1558092987198" duration="786000" />
-      <workItem from="1558416050183" duration="3675000" />
+      <workItem from="1558416050183" duration="3785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6991000" />
+    <option name="totallyTimeSpent" value="7101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -266,7 +246,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -367,20 +347,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14自定义滚动条/自定义滚动条.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="142" column="36" lean-forward="true" selection-start-line="142" selection-start-column="36" selection-end-line="142" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/16表格隔行变色/16元素隐藏的不同的方式.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/16表格隔行变色/表格隔行变色.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15元素隐藏的不同的方式/元素隐藏的不同的方式.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/17tab切换效果的实现/tab切换效果的实现.html">
@@ -390,6 +360,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19列表添加评论/列表添加评论.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14自定义滚动条/自定义滚动条.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="142" column="36" lean-forward="true" selection-start-line="142" selection-start-column="36" selection-end-line="142" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15元素隐藏的不同的方式/元素隐藏的不同的方式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
